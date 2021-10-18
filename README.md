@@ -34,3 +34,8 @@ Create a file named practice.js to save your solutions.
 
 6-	Write a program that has 2 variables, an array of numbers and a key number, then print all the pairs of elements in the array whose sum is equal to the key number.
 
+## Functions
+- make the above programs into their own functions.
+- bonus: Make a button that calls on each function in your html page.
+- bonus 2: Put the variables and operators lab into functions as well.
+
