@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+
+</head>
+<body>
+    
+<button onclick="Checkname()"> Try </button>
+    <script >
+
+const myName = ["sultanh", "moqbel", "alruwaili"];
+let nameKey = "sultanh";
+let found = false;
+function Checkname() {
+    for (i = 0; i < myName.length; i++) {
+
+        if (myName[i] == nameKey) {
+            found = true;
+            break;
+        }
+
+    }
+
+    console.log(found)
+}
+Checkname();
+    </script>
+
+
+
+ 
+
+</body>
+</html>
