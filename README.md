@@ -36,6 +36,5 @@ Create a file named practice.js to save your solutions.
 
 ## Functions
 - make the above programs into their own functions.
-- bonus: Make a button that calls on each function in your html page.
-- bonus 2: Put the variables and operators lab into functions as well.
+- bonus: Put the variables and operators lab into functions as well.
 
